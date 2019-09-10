@@ -557,6 +557,7 @@ const OnePage = (props) => {
                                     <a href="https://twitter.com/AIPE_official" target="_blank" className="ico-twitter" />
                                     <a href="https://www.youtube.com/channel/UC6w2g-waOQ0UzSvL4WEVFQw" target="_blank" className="ico-youtube" />
                                     <a href="https://open.kakao.com/o/gxoWNPkb" target="_blank" className="ico-kakaco" />
+                                    <a href="https://www.reddit.com/r/CosmicBC/" target="_blank" className="ico-reddit" />
                                 </div>  
                                 <div className="footer-copy">
                                     <div className = "test"> 

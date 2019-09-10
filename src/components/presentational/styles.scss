@@ -1972,6 +1972,13 @@ body {
           background-image: url("../../images/ico_kakao_hover.png");
         }
       }
+
+      &.ico-reddit {
+        background-image: url("../../images/ico_reddit.png");
+        &:hover {
+          background-image: url("../../images/ico_reddit_hover.png");
+        }
+      }
     }
   }
 
